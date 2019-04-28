@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_nav_breakfast"
+        android:icon="@drawable/ic_breakfast"
+        android:title=""/>
+    <item
+        android:id="@+id/bottom_nav_lunch"
+        android:icon="@drawable/ic_lunch"
+        android:title=""/>
+    <item
+        android:id="@+id/bottom_nav_dinner"
+        android:icon="@drawable/ic_dinner"
+        android:title=""/>
+</menu>
